@@ -1,0 +1,4 @@
+﻿  brutforce.cpp
+C:\Users\WARRIOR\Desktop\zhamkova\c++\console\brutforce\brutforce\brutforce.cpp(44,54): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\WARRIOR\Desktop\zhamkova\c++\console\brutforce\brutforce\brutforce.cpp(112,54): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  brutforce.vcxproj -> C:\Users\WARRIOR\Desktop\zhamkova\c++\console\brutforce\x64\Debug\brutforce.exe

@@ -1,0 +1,7 @@
+﻿  brutforce.cpp
+C:\Users\WARRIOR\Desktop\zhamkova\c++\console\brutforce\brutforce\brutforce.cpp(25,25): warning C4244: аргумент: преобразование "unsigned short" в "const _Elem", возможна потеря данных
+          with
+          [
+              _Elem=char
+          ]
+  brutforce.vcxproj -> C:\Users\WARRIOR\Desktop\zhamkova\c++\console\brutforce\Debug\brutforce.exe
